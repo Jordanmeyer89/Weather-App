@@ -1,0 +1,30 @@
+h1{
+ padding-top:15%;
+  padding-bottom:3%;
+ text-align:center;
+ color:white;
+  
+}
+body{
+  background-color:rgb(100,125,160);
+  color:white;
+}
+
+#weather1{
+  background-color:rgb(100,150,200);
+  text-align:center;
+  font-size:18px;
+}
+
+#main{
+  font-size:24px;
+  font-color:white;
+}
+
+#celsius{
+  width:100px;
+}
+
+#fahrenheit{
+  width:100px;
+}
